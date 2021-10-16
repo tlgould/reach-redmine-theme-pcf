@@ -1,8 +1,8 @@
 # Redmine Theme
-## _Reach Project Theme_
+## _PCF Portal Theme (Based on Reach Project Theme)_
 
-
-Redmine Theme files for REACH - Next Generation Data Incubator.
+Redmine theme used for the Public Catalogue Foundation. Derivative of Redmine Theme files for REACH - Next Generation Data Incubator.
+(see https://github.com/REACH-Incubator/reach-redmine-theme) for original source.
 
 ## Docker
 
